@@ -1,0 +1,1 @@
+MODEL_NAME=hkurita/llama2-70b-hf-embedding

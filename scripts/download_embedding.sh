@@ -1,0 +1,1 @@
+python src/download_embedding.py --model_name meta-llama/Llama-2-70b-hf
